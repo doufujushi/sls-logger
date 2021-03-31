@@ -1,2 +1,2 @@
 # sls-logger
-aliyun sls logger
+aliyun SLS logger
