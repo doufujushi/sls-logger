@@ -1,3 +1,4 @@
 # sls-logger
-业务上使用了OpenResty + aliyun SLS实现APP上数据的采集！  
-但是aliyun上无相关的实现，因此有了写这个库的想法
+需要对APP上的行为进行采集，通过OpenResty（Nginx + Lua）写入阿里云日志服务（SLS）的方案。  
+但是没有成熟的Lua实现，因此有了写这个库的想法！
+我本身是一个PHPer...
